@@ -1,15 +1,102 @@
-#Student number: 7436142
-#Name: Lee Wai Yang
-#Date: 5 Oct 2024
-#Email: wylee024@mymail.sim.edu.sg
-
-
+Project Diary - Individual Reflection
+________________________________________
 Week 1: 01/10/2024 - 06/10/2024
-
+•	Strong start after going through the XLS project brief together
+•	Assigned lead roles
+o	Si Heng: ML lead
+o	Nickson: Frontend lead
+o	Myself: Backend lead
+o	Irfan: Documentation lead
+•	Told team that leaders will be responsible for their areas, delegating to all other members
+•	Aim for equal contribution and exposure to various areas
+•	Told team to research for proposal and assigned topics to all
+________________________________________
 Week 2: 07/10/2024 - 13/10/2024
-
+•	Went through team’s research together
+•	Drafted proposal together
+•	Made key decisions such as to align with Carousell model where user can be both buyer and seller
+•	Filtered through competitors for most relevant ones like Ebay
+________________________________________
 Week 3: 14/10/2024 - 20/10/2024
-
+•	Continued work on proposal together
+•	Reviewed key changes that all members made offline
+•	Focus on creation of diagrams such as UML
+•	Presented draft database schema (subject to change)
+________________________________________
 Week 4: 21/10/2024 - 27/10/2024
-
+•	Concluded on proposal and submitted
+•	Focus on system design for implementing our proposal
+•	Worked together to add more UML diagrams
+•	Finalized the DB design
+________________________________________
 Week 5: 28/10/2024 - 04/11/2024
+•	Build foundation of backend main API cluster
+•	Decide to use Flask as lightweight and easy to extend
+•	Gave tasks to everyone to help to develop the backend
+•	Explain basics of REST API and that we are supposed to follow it
+________________________________________
+Week 6: 05/11/2024 - 11/11/2024
+•	Finish off backend authentication endpoints
+•	Start work on listing endpoints
+•	Still not very sure what are all the endpoints needed for listing but started with create and update and delete
+________________________________________
+Week 7: 12/11/2024 - 18/11/2024
+•	Told team to start frontend development, with Nickson leading
+•	Start to create login screens and integrate the endpoint
+________________________________________
+Week 8: 19/11/2024 - 25/11/2024
+•	Finished up implementation of 2FA API
+•	Told team to do test cases to ensure working
+•	Plan to continue development of Frontend and Backend
+________________________________________
+Week 9: 26/11/2024 - 02/12/2024
+•	Submit prototype
+•	Took feedback from lecturer
+•	To work on feedback
+________________________________________
+Week 10: 03/12/2024 - 09/12/2024
+•	Told team to start work on websocket functionality
+•	Explained to them how it works and the rough architecture
+________________________________________
+Week 11: 10/12/2024 - 16/12/2024
+•	Finish websocket server and live bidding
+•	Tested according to test cases
+________________________________________
+Week 12: 17/12/2024 - 23/12/2024
+•	Found that web app is quite slow
+•	Told team to find way to optimize
+•	To explore even more indexes for DB
+________________________________________
+Week 13: 24/12/2024 - 30/12/2024
+•	Told team to work on wishlist
+•	Must be able to add, remove and view all
+________________________________________
+Week 14: 31/12/2024 - 06/01/2025
+•	Got update from ML lead that recommendations will now also consider transaction history
+•	Got team to test wishlist features
+________________________________________
+Week 15: 07/01/2025 - 13/01/2025
+•	Main focus is to implement payment with paypal
+________________________________________
+Week 16: 14/01/2025 - 20/01/2025
+•	Told team to focus on seller dashboard
+•	Need to track bids in real time so it is live bidding and interactive
+•	Told Si Heng ML lead to do up LLM chat
+________________________________________
+Week 17: 21/01/2025 - 27/01/2025
+•	Team focus on email support form
+•	Asked them to test the live bidding together
+•	Make sure can see in dashboard every bid
+________________________________________
+Week 18: 28/01/2025 - 03/02/2025
+•	Finalize 2FA as had a bug
+•	Prepare for testing next 2 weeks
+________________________________________
+Week 19: 04/02/2025 - 10/02/2025
+•	Told team to go through all test cases together
+•	Make sure all OK
+________________________________________
+Week 20: 11/02/2025 - 15/02/2025
+•	Work on documentation together for submission
+________________________________________
+
