@@ -1,15 +1,145 @@
-#Student number: 8245745
-#Name: Ng Chun Kiat Nicholas
-#Date: 5 Oct 2024
-#Email: cknng001@mymail.sim.edu.sg
+Student number: 8245745
+Name: Ng Chun Kiat Nicholas
+Date: 5 Oct 2024
+Email: cknng001@mymail.sim.edu.sg
+FYP Group: FYP-24-S4-37P
 
+Project Diary - Individual Reflection
+________________________________________
+Week 1: 01/10/2024 - 06/10/2024 
+Understanding the Project & Planning 
 
-Week 1: 01/10/2024 - 06/10/2024
+Reviewed FYP guidelines and discussed initial ideas with the team, Conducted research on existing auction platforms to analyse key features and limitations, Had the first team meeting to define roles and responsibilities, Identified core system requirements, including frontend, backend, and database, Chose technologies for implementation such as Frontend: React, Backend: Node.js/Express, Database: PostgreSQL 
+Completion Status: 26% of research done 
+Obstacles faced: Due to MVC architecture we have an obstacle to adopt what type of framework is suitable for the project product.  
+Workaround: Did extra research so look what our competitor is using for their framework. 
+  
+Week 2: 07/10/2024 - 13/10/2024 
+Works on drafting Preliminary Technical Documentation & System Requirements for the project 
+as well as our propose system where we defined the scope and objectives for the system on this project further research has been also made to differentiate what the competitor is lacking of. 
+Completion Status: 34% of preliminary technical documents completed 
+Obstacles: Competitor were using technologies that was not being during our period studies which is difficult to adopt.  
+Workaround: further researches on the framework end to identify what is suitable for the system that we were going to implement. 
+  
+Week 3: 14/10/2024 - 20/10/2024 
+Finalizing Proposal & Initial Frontend Setup, where set-up react.js and also research what type of ui library 
+we could use to help visualise the auction bidding portion to implement Participated in a team meeting to refine the scope and implementation strategy. 
+Obstacles: Found trouble in a way in the UML diagram creation, which require more time to understand our system architecture. 
+Workaround: Split tasks among team members and scheduled an additional review session for UML diagrams. 
+ 
+Week 4: 21/10/2024 - 27/10/2024 
+Finalized and submitted the project proposal , install the needed dependencies on the react and began 
+drafting out the relevant UI for buyer portion on this auction platform and implement the basic functionality on the web app. 
 
-Week 2: 07/10/2024 - 13/10/2024
+Completion Status: UML diagrams 80% completed, database schema 50% completed 
+Obstacles: Some data relationships were difficult to structure efficiently. 
+Workaround: Took feedback from team discussions and supervisor to improve the schema design. 
+  
+Week 5: 28/10/2024 - 04/11/2024 
+System infrastructure set-up Designed and created database tables for users, auctions, and bids. 
+Testing of API endpoints for user registration login and registrations. Completion Status: Backend authentication 30% completed 
+Obstacles: 2FA having login issue when first integrated with the frontend. Workaround: Source for relevant issue from stackoverflow. 
+  
+Week 6: 05/11/2024 - 11/11/2024 
+Fully integrated the 2FA function for user authentication ensure that our data is also using TLS via 
+HTTPS as credentials has to be encrypted further to work on maintenance manual. 
+Completion Status: Authentication 40% completed 
+Obstacles: Faced issue when calling endpoint routes to conduct further system testing 
+Workaround: arrange meeting with the backend team to further debug the issue that faced 
+  
+Week 7: 12/11/2024 - 18/11/2024 
+Technical Document Updates Documented API endpoints for auction management, covering listing creation, updates, and bidding logic. 
+Defined database relationships for auction listings to ensure efficient data retrieval and indexing and further integration of frontend user authentication. 
+Completion Status: Frontend authentication 70% completed 
+Obstacles: Certain UI components not being render efficient as expect. 
+Workaround: researched more topics on useState and useEffect and use them efficiently  
 
-Week 3: 14/10/2024 - 20/10/2024
+Week 8: 19/11/2024 - 25/11/2024 
+Integrated authentication API with the frontend, ensuring smooth login and logout flows. 
+Designed and implemented search and filtering functionalities for auction listings. 
+Completion Status: Frontend authentication 100% completed, search/filtering 40% completed Obstacles: 
+Filtering logic was not working as expected due to incorrect query parameters. 
+Workaround: Adjusted API queries and tested different filter combinations to ensure accuracy.   
 
-Week 4: 21/10/2024 - 27/10/2024
+Week 9: 26/11/2024 - 02/12/2024 
+Finalized and submitted the first working prototype for assessment, 
+integrating key functionalities including authentication, auction listings, bidding, and search/filtering. 
+Conducted internal testing to identify areas for improvement. 
+Completion Status: Prototype 100% completed 
+Obstacles: Some features required refinement based on feedback, particularly in UI responsiveness and bid validation. 
+Workaround: Documented feedback and created an improvement plan for the next phase.
+  
+Week 10: 03/12/2024 - 09/12/2024 
+Designed real-time UI updates for bid placement. 
+Modified auction pages to reflect instant bid changes without requiring a page refresh. 
+Updated bidding process documentation to include real-time interactions. 
+Obstacles: Encountered connection issues when multiple users placed bids simultaneously.
+Workaround: Adjusted WebSocket event handling and tested with di?erent concurrency levels to improve stability.
+  
+Week 11: 10/12/2024 - 16/12/2024 
+Completed the real-time auction system and tested live bidding functionalities using 
+WebSockets. Worked on implementing different auction strategies, including:English Auction 
+(incremental bidding)Completion Status: Auction logic 80% completed 
+Obstacles: Some edge cases led to incorrect bid placements due to race conditions in real-time updates. 
+Workaround: Refactored bid validation logic and added additional test cases to handle concurrency issues. 
+  
+Week 12: 17/12/2024 - 23/12/2024 
+Conducted User Acceptance Testing (UAT) to ensure the auction platform met user expectations and system requirements. 
+analysed user feedback to identify areas for performance improvements and bug fixes. 
+Completion Status: UAT 100% completed, performance optimizations 50% completed 
+Obstacles: Some queries were slow due to unoptimized database indexes, causing delays in bid retrieval and auction listing updates. 
+Workaround: Indexed frequently queried fields and optimized SQL queries to improve response time. 
+  
+Week 13: 24/12/2024 - 30/12/2024 
+Developed and integrated the Wishlist functionality as well as user home function, allowing users to save and manage their favourite auction items. 
+Ensured smooth addition and removal of items from the Wishlist. 
+Completion Status: Wishlist 100% completed 
+Obstacles: Minor UI inconsistencies in displaying Wishlist items, leading to alignment issues. 
+Workaround: Fixed UI layout problems and tested across multiple devices to ensure consistency.
+  
+Week 14: 31/12/2024 - 06/01/2025 
+using collaborative filtering, analyzing user activity history to suggest relevant auction listings. 
+Completion Status, documented recommendation and its logic. 
+Finalized system documentation, including deployment guidelines. Recommendation system 70% completed 
+Obstacles: The recommendation algorithm needed better optimization to improve personalized results. 
+Workaround: Adjusted weight factors in the recommendation logic to enhance accuracy and relevance.
+  
+Week 15: 07/01/2025 - 13/01/2025 
+Documented Payment Gateway Integration and security best practices, Finalized deployment documentation, 
+including server setup, database migration, and API key management. 
+Completion Status: Payment integration 100% completed Obstacles: issue returning back the payment api. 
+Workaround: Adjusted API call handling and implemented better retry mechanisms. 
+  
+Week 16: 14/01/2025 - 20/01/2025 
+Integrate and allows sellers to track their auctions and bids in real-time, providing insights into bid activity and auction status. 
+Completion Status: Seller dashboard 80% completed Obstacles: Some UI updates were slow due to high bid traffic, causing performance bottlenecks. 
+Workaround: Optimized state management and improved WebSocket efficiency to handle real-time updates more smoothly. 
+  
+Week 17: 21/01/2025 - 27/01/2025 
+Documented Messaging System API, covering message storage, delivery, and security. 
+Finalized system documentation for seamless integration with the auction platform.
 
-Week 5: 28/10/2024 - 04/11/2024
+Completion Status: Messaging system 90% completed Obstacles: Messages were sometimes delayed due to server processing time.
+Workaround: Optimized message queue and added caching for faster retrieval. 
+  
+Week 18: 28/01/2025 - 03/02/2025 
+Finalized and tested user account management functionalities, Strengthened password reset mechanisms Optimized session storage and expiration policies for better user authentication. to enhance security. 
+
+Completion Status: Account management 100% completed 
+Obstacles: Some users experienced logout issues due to token expiration, disrupting session continuity. 
+Workaround: Improved session handling and implemented automatic reauthentication to ensure seamless user experience.. 
+  
+Week 19: 04/02/2025 - 10/02/2025 
+Conducted final system-wide testing to ensure all features were functioning correctly before deployment. 
+Focused on security, performance, and UI consistency across different devices and screen sizes. 
+Completion Status: Testing 100% completed Obstacles: Some minor UI inconsistencies were found, causing slight misalignment in certain components. 
+Workaround: Fixed layout issues and improved UI responsiveness to ensure a seamless user experience.
+  
+Week 20: 11/02/2025 - 15/02/2025 
+Submitted final report and conducted project presentation. 
+Completion Status: Project 100% completed 
+Obstacles: N/A 
+Workaround: N/A 
+  
+This project diary summarizes my contributions, challenges faced, and solutions implemented throughout the development of the online auction platform. 
+ 
