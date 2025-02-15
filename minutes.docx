@@ -1,38 +1,636 @@
-*************************************************************************************
-*                       Meeting Minutes 1: FYP-24-S4-37P                            *
-*************************************************************************************
-*              Project: Implementation of online auction platform                   *
-*************************************************************************************
-*                             Date: 20 October 2024                                 *
-*************************************************************************************
+Meeting Minutes 1
 
-*************************************************************************************
-* Team Members                               | Remarks                              *
-*************************************************************************************
-* LEE WAI YANG                               |                                      *
-* MOHAMED IRFANUDEEN S/O MOHD SIHABUDEEN     |                                      *
-* NICKSON TAN YONG SIANG                     |                                      *
-* MUHAMMAD SHAKIR BIN MOHD ADAM              |                                      *
-* NG CHUN KIAT NICHOLAS                      |                                      *
-* CHEN SI HENG                               |                                      *
-*************************************************************************************
+Location: Online (uow sols)
+Date: 13 October 2024
 
-*************************************************************************************  
-* S/N   | ITEM                    | ACTION/REMARK                                   *
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Supervisor:
+Mr Tian Sion Hui
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Finalizing project scope and objectives
+2. Assigning functional leads and responsibilities
+3. Project proposal preparation
+
+Discussion Summary:
+1. The team discussed and finalized the scope of the online auction platform, ensuring alignment with the initial project vision.
+2. Assigned functional leads for different components of the project.
+3. Began drafting the project proposal, outlining key functionalities and implementation plans. 
+4. Conducted preliminary research on auction platforms and their features.
+
+Follow-Up actions:
+3. Submit project proposal by Week 2.
+4. Gather additional requirements for project features.
 *************************************************************************************
-*       |                         |                                                 *
-*       |                         | * Executive Summary - Lee Wai Yang              *
-*       |                         | * Introduction - Mohamed Irfanudeen             *
-*       |                         | * Background - Aster, Mohamed Irfanudeen        *
-*       |                         | * Research - Si Heng                            *
-*       |                         | * Literature reviews - Si Heng, Muhammad Shakir *
-*   1   | Project Proposal        | * Objectives - Lee Wai Yang                     *
-*       |                         | * Scope and Problems of Limitation - Nicholas   *
-*       |                         | * Development Method - Nicholas, Nickson        *
-*       |                         | * Gantt Chart - Nickson                         *
-*       |                         | * References - Nickson                          *
-*       |                         | * UML diagram and Use Case diagram - Si Heng    *
+Meeting Minutes 2
+
+Location: Online (Google Meet)
+Date: 19 October 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Reviewing supervisor feedback on project proposal
+2. Researching auction system requirements
+3. Planning system architecture
+
+Discussion Summary
+Follow-Up actions
+1. The team reviewed the supervisor’s feedback on the project proposal and identified necessary improvements.
+2. The team conducted research on existing auction platforms and best practices for online bidding systems.
+3. The team outlined preliminary system architecture, including key modules and integrations.
+
+Follow-Up actions
+1. Revise project proposal accordingly.
+2. Document findings and integrate relevant insights into system design.
+3. Revise project proposal accordingly.
+3.1 Begin system architecture planning and documentation. 
+3.2 Finalize functional and non-functional requirements.
 *************************************************************************************
+Meeting Minutes 3
+
+Location: Online (Google Meet)
+Date: 27 October 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Defining system requirements
+2. Creating UML diagrams and database schema drafts
+
+Discussion Summary
+1.The team defined core system requirements for user management, bidding functionality, and payment integration.
+2. The team created initial UML diagrams and database schema drafts.
+3. The team discussed data relationships and dependencies within the system.
+
+Follow-Up action
+1. Confirm all necessary requirements before development.
+2. Review and finalize UML diagrams.
+3. Identify key constraints affecting implementation.
+*************************************************************************************
+Meeting Minutes 4
+
+Location: Online (Google Meet)
+Date: 3 November 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Reviewing and finalizing database schema
+2. Defining key constraints for efficient querying
+
+Discussion Summary
+1. The team finalized the database schema, ensuring proper indexing and relationship mapping.
+2. The team identified potential performance bottlenecks and optimized query structures.
+3. The team reviewed data security measures, including encryption and access control policies.
+
+Follow-Up actions
+1. Implement initial database setup.
+2. Test optimized queries for efficiency.
+3. Implement initial security measures.
+*************************************************************************************
+Meeting Minutes 5
+
+Location: Online (Google Meet)
+Date: 9 November 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Implementing user registration and authentication
+2. Developing JWT-based authentication with 2FA
+3. Securing API endpoints
+
+Discussion Summary
+1. The team developed a user registration and authentication system using JWT with 2FA for added security.
+2. The team established API security protocols, ensuring secure user authentication and data handling.
+3. The team tested API endpoints for account management and user verification.
+
+Follow-Up actions
+1. Conduct integration tests for authentication system
+2. Implement further security refinements if needed.
+3. Begin backend API development for listings and auctions.
+*************************************************************************************
+Meeting Minutes 6
+
+Location: Online (Google Meet)
+
+Date: 16 November 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Developing API endpoints for auction management
+2. Defining auction types (English, Dutch, Sealed-bid)
+
+Discussion Summary
+1. The team implemented API endpoints for listing creation, modification, and retrieval.
+2. The team defined auction types and their respective bidding strategies.
+3. The team conducted a walkthrough of API functionalities for frontend integration
+
+Follow-Up actions
+1. Test listing APIs for stability and accuracy.
+2. Document auction rules and strategies.
+3. Start frontend development for authentication and listings
+*************************************************************************************
+Meeting Minutes 7
+
+Location: Online (Google Meet)
+Date: 24 November 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Implementing user authentication on the frontend
+2. Developing account management features
+3. Conducting authentication flow testing
+
+Discussion Summary
+1. The team developed the frontend UI for user login, registration, and account management.
+2. The team implemented password reset and profile update functionalities
+3. Initial integration testing between frontend authentication and backend API was performed.
+
+Follow-Up actions
+1. Conduct user testing for authentication flows.
+2. Ensure secure handling of password reset and profile updates.
+3. Fix any authentication issues before moving to production testing.
+*************************************************************************************
+Meeting Minutes 8
+
+Location: Online (Google Meet)
+
+Date: 1 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
 
 
-  
+Agenda Items:
+1. Implementing the listings page on the frontend
+2. Adding search and filtering options
+3. Ensuring data synchronization with the backend
+
+Discussion Summary
+1. The team developed the frontend interface for displaying active auction listings.
+2. Search functionality based on item title, type, and pricing was implemented.
+3. The team tested the synchronization of listings between backend and frontend.
+
+Follow-Up actions
+1. Conduct UI review and implement feedback.
+2. Validate search accuracy and performance.
+3. Ensure consistent data retrieval for users.
+*************************************************************************************
+Meeting Minutes 9
+
+Location: Online (Google Meet)
+Date: 8 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Conducting internal prototype testing
+2. Preparing prototype submission for Assessment 1
+3. Reviewing system stability
+
+Discussion Summary
+1. The team conducted internal testing on the developed prototype.
+2. The prototype was reviewed to ensure all implemented functionalities were stable.
+3. Feedback from the team was gathered on the user experience.
+4. The team prepared the prototype submission for Assessment 1.
+
+Follow-Up actions
+1. Identify and resolve major bugs before submission.
+2. Finalize documentation for submission.
+3. Implement minor improvements to enhance usability.
+4. Submit prototype as per university guidelines.
+*************************************************************************************
+Meeting Minutes 10
+
+Location: Online (Google Meet)
+Date: 14 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Implementing real-time auction system
+2. Developing WebSocket-powered bidding
+3. Testing live bid updates
+
+Discussion Summary
+1. The team integrated WebSockets to enable real-time bidding.
+2. Live auction updates were tested to ensure bid changes reflected instantly.
+3. The team ensured sellers could track live bids in real time.
+
+Follow-Up actions
+1. Conduct stability tests for WebSocket connections.
+2. Optimize bid handling and reduce latency issues.
+3. Improve UI responsiveness for better bid tracking.
+*************************************************************************************
+Meeting Minutes 11
+
+Location: Online (Google Meet)
+Date: 18 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Implementing auction strategies (English, Dutch, Sealed-bid)
+2. Adding Buy-Now feature
+3. Refining bid validation logic
+
+Discussion Summary
+1. The team implemented different auction strategies to allow varied bidding methods.
+2. The Buy-Now feature was integrated for immediate purchases.
+3. Bid validation rules were refined to prevent invalid bidding.
+4. The team reviewed edge cases related to bid conflicts
+
+Follow-Up actions
+1. Test and validate auction strategy logic.
+2. Ensure proper handling of Buy-Now transactions.
+3. Conduct stress testing on bid placement.
+4. Adjust validation logic for better bid security.
+*************************************************************************************
+Meeting Minutes 12
+
+Location: SIM BLK A
+Date: 21 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Conducting User Acceptance Testing (UAT)
+2. Optimizing system performance
+3. Reviewing system-wide feedback
+
+Discussion Summary
+1. The team conducted UAT to gather feedback from test users.
+2. Performance optimizations were applied to improve auction response times.
+3. The team finalized the submission for Assessment 1.
+
+Follow-Up actions
+1. Address usability issues based on UAT results.
+2. Optimize database queries for better performance.
+3. Submit the project for evaluation.
+*************************************************************************************
+Meeting Minutes 13
+
+Location: Online (Google Meet)
+Date: 28 December 2024
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Developing Wishlist functionality
+2. Integrating Wishlist with user accounts
+3. Ensuring smooth retrieval of Wishlist data
+
+Discussion Summary
+1. The team implemented Wishlist functionality, allowing users to save listings.
+2. Wishlist data was integrated with user accounts for persistent storage.
+3. Retrieval of Wishlist items was tested for efficiency and accuracy.
+
+Follow-Up actions
+1. Test Wishlist feature across multiple user sessions.
+2. Ensure proper handling of Wishlist items upon user login/logout.
+3. Optimize database queries for faster Wishlist retrieval.
+*************************************************************************************
+Meeting Minutes 14
+
+Location: Online (Google Meet)
+Date: 5 January 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+
+Agenda Items:
+1. Implementing recommendation system using collaborative filtering
+2. Testing recommendation accuracy
+3. Refining recommendation algorithms
+
+Discussion Summary
+1. The team developed a recommendation system using collaborative filtering.
+2. User behavior and Wishlist data were incorporated into the recommendation logic.
+3. The team tested different filtering approaches to improve personalization.
+
+Follow-Up actions
+1. Test the accuracy of recommended listings.
+2. Adjust weightage for more relevant suggestions.
+3. Fine-tune recommendation algorithms based on testing results.
+*************************************************************************************
+Meeting Minutes 15
+
+Location: Online (Google Meet)
+Date: 12 January 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Integrating secure payment handling via PayPal API
+2. Implementing bid authorization and transaction confirmation
+3. Handling edge cases in transaction processing
+
+Discussion Summary
+1. The team integrated PayPal API for secure payment processing.
+2. Bid authorization and payment confirmation workflows were developed.
+3. The team reviewed potential failure points in the payment process.
+4. Buyer and seller protection mechanisms were discussed for dispute handling.
+
+
+Follow-Up actions
+1. Test PayPal transactions for different payment scenarios.
+2. Ensure proper logging of successful and failed transactions.
+3. Implement fallback mechanisms for incomplete transactions.
+4. Document dispute resolution guidelines.
+*************************************************************************************
+Meeting Minutes 16
+
+Location: Online (Google Meet)
+Date: 19 January 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Developing auction monitoring dashboard for sellers
+2. Implementing real-time bid tracking for sellers
+3. Enhancing analytics for auction performance
+
+Discussion Summary
+1. The team developed a seller dashboard for monitoring active auctions.
+2. Real-time tracking of bid activity was implemented.
+3. Auction performance analytics were introduced for sellers.
+
+Follow-Up actions
+1. Test dashboard responsiveness and real-time updates.
+2. Ensure seamless bid tracking with minimal delay.
+3. Fine-tune auction insights for better reporting.
+*************************************************************************************
+Meeting Minutes 17
+
+Location: Online (Google Meet)
+Date: 25 January 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Implementing buyer-seller messaging system
+2. Ensuring message history is stored securely
+3. Testing dispute resolution via messaging
+
+Discussion Summary
+1. The team developed a messaging system for buyers and sellers.
+2. Message history storage was implemented with encryption.
+3. The dispute resolution flow via messaging was reviewed.
+
+Follow-Up actions
+1. Test message delivery and notification system.
+2. Ensure secure retrieval and storage of conversation logs.
+3. Define rules for flagging and handling disputes.
+*************************************************************************************
+Meeting Minutes 18
+
+Location: Online (Google Meet)
+Date: 1 February 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Finalizing user account management features
+2. Ensuring secure password reset and recovery
+3. Conducting security audit for user authentication
+
+Discussion Summary
+1. The team finalized all account management features, including updates to profile settings.
+2. Secure password reset and recovery methods were implemented.
+3. A security audit was conducted for user authentication, ensuring compliance with best practices.
+
+Follow-Up actions
+1. Test all account update functionalities for bugs.
+2. Validate OTP and email-based password recovery process.
+3. Resolve any identified security vulnerabilities.
+*************************************************************************************
+Meeting Minutes 19
+
+Location: Online (Google Meet)
+
+Date: 9 February 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Conducting system-wide testing
+2. Identifying and resolving final bugs
+3. Preparing documentation for final submission
+
+Discussion Summary
+1. The team conducted end-to-end testing across all system components.
+2. Final bugs related to UI, API responses, and payment processing were addressed.
+3. The team prepared final technical documentation, ensuring all components were well-documented.
+
+Follow-Up actions
+1. Document all test results and identify critical issues
+2. Implement necessary fixes and re-test.
+3. Perform final proofreading and formatting.
+*************************************************************************************
+Meeting Minutes 20
+
+Location: SIM BLK A
+Date: 15 February 2025
+
+Attendees:
+Lee Wai Yang
+Mohamed Irfanudeen s/o Mohd Sihahabudeen
+Muhammad Shakir Bin Mohd Adam
+Ng Chun Kiat Nicholas
+Nickson Tan Yong Siang
+Chen Si Heng
+
+Absentees:
+N/A
+
+Agenda Items:
+1. Submitting final report and documentation
+2. Conducting final project presentation
+3. Reflecting on project outcomes and lessons learned
+
+Discussion Summary
+1. The team submitted the final technical report and all related documentation.
+2. Prepare for the final project presentation next week, showcasing key features and achievements.
+3. The team discussed project takeaways and areas for future improvement.
+
+Follow-Up actions
+1. Confirm supervisor’s acknowledgment of submission.
+2. Demo among ourselves and make sure the slides are good to go
+3. Document key lessons learned for future reference.
+
+</end>
