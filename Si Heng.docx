@@ -1,15 +1,96 @@
-#Student number: 8235004
-#Name: Chen Si Heng
-#Date: 5 Oct 2024
-#Email: shchen003@mymail.sim.edu.sg
+Student number: 8235004
+Name: Chen Si Heng
+Date: 5 Oct 2024
+Email: shchen003@mymail.sim.edu.sg
+FYP Grp: FYP-24-S4-37P
 
-
+Project Diary - Individual Reflection
+________________________________________
 Week 1: 01/10/2024 - 06/10/2024
-
+•	First meeting
+•	Team leader assign me Machine Learning lead
+•	To research on User Based Collaborative Filtering
+•	Also supposed to help research for proposal, focus on competitors
+________________________________________
 Week 2: 07/10/2024 - 13/10/2024
-
+•	This meeting focus on doing proposal together
+•	Presented my research on competitors
+•	Decided that Ebay and Carousell are most important
+________________________________________
 Week 3: 14/10/2024 - 20/10/2024
-
+•	Presented what I did in proposal, mainly competitor and UML
+•	Together refined UML diagram
+•	Gave backend lead more requirement for database schema (for ML) such as transaction table
+________________________________________
 Week 4: 21/10/2024 - 27/10/2024
-
+•	Submit proposal and start design system today
+•	Help to create more UML diagram for user activity
+•	Help to finalize DB design with backend lead
+•	Suggest to add indexing to improve performance
+________________________________________
 Week 5: 28/10/2024 - 04/11/2024
+•	Start work on ML cluster
+•	Using FastAPI but still not sure how to do user based collaborative filtering
+•	Help a bit with backend for 2FA
+________________________________________
+Week 6: 05/11/2024 - 11/11/2024
+•	Continue to work on ML cluster
+•	Team leader told me to focus on ML as backend has enough help
+•	Managed to figure out the user based collaborative filtering
+________________________________________
+Week 7: 12/11/2024 - 18/11/2024
+•	Today start on frontend development
+•	Help with 2FA screen
+________________________________________
+Week 8: 19/11/2024 - 25/11/2024
+•	Help to integrate 2FA API to frontend
+•	Did testing for auth for test case
+________________________________________
+Week 9: 26/11/2024 - 02/12/2024
+•	Submit prototype
+•	Lecturer give feedback that bidding must be solid
+•	Help to test further
+________________________________________
+Week 10: 03/12/2024 - 09/12/2024
+•	Leader told me to continue working on ML features, including LLM for chat
+•	The rest work on live bidding
+________________________________________
+Week 11: 10/12/2024 - 16/12/2024
+•	Help to test websocket for live bidding
+•	Continue work on LLM and recommendation
+________________________________________
+Week 12: 17/12/2024 - 23/12/2024
+•	From testing, leader said the website is very slow
+•	To focus on finding optimization method
+________________________________________
+Week 13: 24/12/2024 - 30/12/2024
+•	Help to implement wishlist in frontend
+________________________________________
+Week 14: 31/12/2024 - 06/01/2025
+•	Improve the ML model for recommendations with user based collaborative filtering, include transaction history
+•	Help to test wishlist feature
+________________________________________
+Week 15: 07/01/2025 - 13/01/2025
+•	The team focus on payment
+•	I continue working on LLM for chat to recommend items
+________________________________________
+Week 16: 14/01/2025 - 20/01/2025
+•	Help to implement seller dashboard to track auction bids
+________________________________________
+Week 17: 21/01/2025 - 27/01/2025
+•	Implement Email form to submit query for users to admin
+•	Help to test dashboard
+________________________________________
+Week 18: 28/01/2025 - 03/02/2025
+•	Make some change to 2FA as TOTP got bug
+•	Integrate ML chat into the website
+________________________________________
+Week 19: 04/02/2025 - 10/02/2025
+•	Focus on testing everything
+•	All bid together
+________________________________________
+Week 20: 11/02/2025 - 15/02/2025
+•	Work on documentation together and submit
+•	Confirm all test case OK
+________________________________________
+
