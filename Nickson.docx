@@ -1,15 +1,65 @@
-#Student number: 8690388
-#Name: Nickson Tan Yong Siang
-#Date: 5 Oct 2024
-#Email: nysct100@uowmail.edu.au
+Student number: 8690388
+Name: Nickson Tan Yong Siang
+Date: 5 Oct 2024
+Email: nysct100@uowmail.edu.au
+Group: FYP-24-S4-37P
 
-
+Project Diary - Individual Reflection
+________________________________________
 Week 1: 01/10/2024 - 06/10/2024
 
+This week, our team kicked off the project by getting acquainted and defining our roles. In our initial meeting, we finalized individual responsibilities, and I took on the frontend lead role. Additionally, I researched existing auction platforms to identify their strengths, weaknesses, and key features, ensuring our project aligns with the guidelines, scope, and objectives. We also cross-referenced multiple sources to gain a deeper understanding of each platform's functionality.________________________________________
 Week 2: 07/10/2024 - 13/10/2024
-
+For this week, I made progress on the project proposal document, outlining key system requirements and collaborating with the team to define functional and non-functional needs. I also delved into researching various frontend development suitable for our development as some technical aspects of the auction system are difficult to grasp, I addressed this challenge by discussing with my team members and exploring existing implementation to gain a better understanding for example, using react.________________________________________
 Week 3: 14/10/2024 - 20/10/2024
+I have prioritized finalizing the project proposal and preparing it for submission. To ensure its completion, tasks were delegated among team members, and an additional review session was held. I took on the task of outlining the development methodology and roles and responsibilities, gaining valuable insights into the Waterfall approach. A collaborative team meeting helped refine the project's scope and implementation strategy, with everyone contributing their expertise and support.________________________________________
+
+
+
 
 Week 4: 21/10/2024 - 27/10/2024
-
+Following the submission of the project proposal, I shifted my focus to the frontend development. I began designing the user interface and user experience, creating wireframes and mock-ups. Research on responsive design and accessibility best practices was also conducted. Despite challenges in structuring complex layout relationships, valuable feedback from team discussions enabled me to refine the design. This input ensured a more intuitive and user-friendly interface. Progress on the frontend design is ongoing.________________________________________
 Week 5: 28/10/2024 - 04/11/2024
+This week, I focused on developing the frontend for user registration and login, seamlessly integrating it with the existing backend API. I designed and developed intuitive UI components for registration and login forms, ensuring a smooth user experience. Additionally, I thoroughly tested the API endpoints for user registration and login functionality, identifying and addressing any issues that arose.
+Although I encountered minor issues with API request handling and error messaging, I was able to resolve them by referencing YouTube videos and utilizing browser developer tools for debugging. With these obstacles overcome, I am confident in the progress made and look forward to completing the remaining tasks.
+________________________________________
+Week 6: 05/11/2024 - 11/11/2024
+I successfully completed the frontend registration and login functionality, marking a significant milestone. Next, I shifted my focus to developing the individual user page and securing route protection for the user homepage and main page when a user is logged in. This involved implementing authentication checks and authorization logic to ensure that only authorized users can access specific pages. With this feature in place, the application's security and usability have been significantly enhanced, providing a better overall user experience.________________________________________
+Week 7: 12/11/2024 - 18/11/2024
+However, I encountered some challenges with UI components not rendering correctly due to state management issues. After debugging the problem, I restructured the component logic to improve state handling, ensuring a seamless user experience. With this enhancement, users can now effortlessly navigate and manage their accounts.________________________________________
+Week 8: 19/11/2024 - 25/11/2024
+
+I successfully integrated the authentication API with the frontend, enabling seamless login and logout experiences. Thorough testing ensured smooth functionality, guaranteeing that users can effortlessly access and manage their accounts. The authentication flow is now fully functional, providing a secure and intuitive experience for users. With this critical component complete, I can focus on further enhancing the application's features and functionality. The integration of the authentication API has laid a solid foundation for the application's continued development and growth.
+________________________________________
+Week 9: 26/11/2024 - 02/12/2024
+
+I continued to enhance the frontend by integrating additional features, with a focus on designing and implementing intuitive UI components for the bidding process. This involved creating interactive elements, such as buttons, forms, and real-time bidding updates, to provide a seamless and engaging user experience. The bidding process UI components are now fully integrated, enabling users to effortlessly place bids and track auction activity. This significant milestone brings the application closer to its completion, with a robust and user-friendly bidding system in place.________________________________________
+Week 10: 03/12/2024 - 09/12/2024
+I began implementing WebSocket functionality on the frontend to enable real-time bidding updates. I successfully established a connection to the WebSocket server and integrated it with the existing auction system. Although the WebSocket integration is only 50% complete, I've made significant progress. However, I encountered some connection issues when multiple users placed bids simultaneously, which affected the frontend's performance. To address this, I adjusted the WebSocket event handling on the frontend and conducted thorough testing with different concurrency levels to ensure a seamless user experience.________________________________________
+Week 11: 10/12/2024 - 16/12/2024
+We received invaluable feedback on our demo prototype presentation from our supervisor, which provided us with a fresh perspective and actionable insights. The meeting was highly collaborative, with every team member actively participating and contributing to the discussion. The outcome was overwhelmingly positive, with a clear direction for further refinement and improvement. The feedback session was a resounding success, fostering a sense of teamwork and shared purpose as we continue to iterate and enhance our prototype. ________________________________________
+Week 12: 17/12/2024 - 23/12/2024
+
+Following the insightful feedback from our supervisor, we undertook a thorough revision of our prototype to ensure it meets the highest standards. We carefully addressed each point of feedback, making targeted improvements to enhance the overall quality and effectiveness of our prototype. This revision process allowed us to refine our ideas, strengthen our design, and bolster our confidence in the final product. With the submission deadline looming, we are now well-prepared to present a polished and refined prototype.________________________________________
+Week 13: 24/12/2024 - 30/12/2024
+Although my focus was divided, I still made notable progress on integrating the various UI components for listing, ensuring that the functionality is intact and user-friendly. I dedicated time to resolving the majority of the layout issues, prioritizing consistency throughout the user experience. By doing so, I enhanced the overall visual appeal and usability of the listing feature. My efforts have paid off, resulting in a more cohesive and engaging interface that provides a seamless experience for users.________________________________________
+Week 14: 31/12/2024 - 06/01/2025
+
+I continued building on the momentum from the previous week, focusing on refining the listing feature and addressing any remaining layout issues. Additionally, I began exploring the implementation of responsive design principles to ensure a seamless user experience across various devices and screen sizes. By doing so, I aim to provide a consistent and intuitive interface that adapts effortlessly to different environments. With the listing feature nearing completion, I am now shifting my attention to the bidding process, preparing to tackle the next critical component of the application.
+________________________________________
+Week 15: 07/01/2025 - 13/01/2025
+I delved deeper into the bidding process, concentrating on designing and implementing the UI components and functionality necessary for a seamless bidding experience. This involved creating interactive elements, such as bid submission forms, bid history displays, and real-time bidding updates. I also explored integrating the bidding process with the existing listing feature, ensuring a cohesive and intuitive user experience. Furthermore, I began investigating the implementation of WebSocket technology to facilitate real-time bidding updates and enhance the overall bidding experience. With the bidding process taking shape, I am now focusing on refining the feature and addressing any emerging challenges.
+________________________________________
+Week 16: 14/01/2025 - 20/01/2025
+
+From a frontend perspective, I successfully crafted and integrated the administrative UI components, providing a seamless and intuitive experience for administrators. I meticulously designed and implemented the login and logout functionality, ensuring a secure and efficient authentication process. Furthermore, I thoroughly tested and validated the admin features, guaranteeing that they function as intended and provide the necessary tools for effective management. The admin interface is now robust, user-friendly, and fully functional, empowering administrators to effortlessly perform their duties.________________________________________
+Week 17: 21/01/2025 - 27/01/2025
+I continued to refine and enhance the auction platform system, focusing on optimizing its performance, scalability, and overall user experience. In tandem, I maintained open and collaborative communication with team members to ensure seamless alignment of our individual contributions. Through regular discussions and joint troubleshooting sessions, we collectively identified and addressed emerging issues, fostering a cohesive and efficient development process. By working together, we accelerated progress, mitigated potential problems, and ultimately strengthened the auction platform's foundation for a successful launch.________________________________________
+Week 18: 28/01/2025 - 03/02/2025
+I refined and enhanced the search filter functionality to elevate both user and admin experiences. This involved meticulous testing and fine-tuning to ensure seamless integration and optimal performance. I verified that the filter accurately returns relevant results, providing users with a robust and intuitive search capability. Furthermore, I validated the filter's compatibility with various system features, guaranteeing a cohesive and streamlined experience. With the search filter now fully optimized, users and admins can efficiently locate desired information, significantly enhancing overall system usability.________________________________________
+Week 19: 04/02/2025 - 10/02/2025
+I performed an exhaustive, system-wide testing phase to ensure the auction platform's stability, functionality, and overall performance. This meticulous testing process revealed some minor UI inconsistencies, which I promptly addressed by resolving layout issues and enhancing UI responsiveness. With all identified bugs and issues successfully resolved, I am pleased to confirm that the testing phase has been completed. The system is now fully optimized, providing a seamless and engaging experience for users. Final preparations are underway for a successful launch.________________________________________
+Week 20: 11/02/2025 - 15/02/2025
+I collaborated closely with my team members to finalize the requirements of our Final Year Project (FYP), ensuring a cohesive and polished outcome. Through open communication and joint effort, we meticulously reviewed and refined every aspect of the project, guaranteeing that all components are fully functional and integrated seamlessly. Our collective dedication and attention to detail have yielded a high-quality result, and we are now confident that our FYP is comprehensive, robust, and ready for presentation.________________________________________
+This project diary summarizes my contributions, challenges faced, and solutions implemented throughout the development of the online auction platform.
+
