@@ -1,15 +1,109 @@
-#Student number: 8535693
-#Name: Muhammad Shakir Bin Mohd Adam
-#Date: 5 Oct 2024
-#Email: mohda010@mymail.sim.edu.sg
-
-
-Week 1: 01/10/2024 - 06/10/2024
-
-Week 2: 07/10/2024 - 13/10/2024
-
-Week 3: 14/10/2024 - 20/10/2024
-
-Week 4: 21/10/2024 - 27/10/2024
-
-Week 5: 28/10/2024 - 04/11/2024
+Project Diary - Individual Reflection 
+Name: Muhammad Shakir Bin Mohd Adam 
+UOW ID: 8535693 
+FYP Grp: FYP-24-S4-37P 
+  
+Week 1: 01/10/2024 - 06/10/2024 
+This week, I mostly research about our project requirements, understanding the auction platform as well as examples of existing auction platforms. We also had our first meeting to understand about the process of handling the project and know the strengths and weaknesses of our teammates so as to familiarize with each other’s strengths and weaknesses. 
+For obstacles, it was mostly having issue with finding out the different auction platform and understanding their features as I am not a frequent user of auction platforms. 
+However, the review of users on auction platforms does help in understanding what are the problems faced in that particular auction platform and research can be done on how we can avoid it. 
+Completion Status: 20% of research done 
+ 
+ 
+  
+Week 2: 07/10/2024 - 13/10/2024 
+I started a draft of the project proposal document and taking notes of the key points that is needed such as features that are feasible and how to be different from other auction platforms. 
+For obstacles, it was difficult finding out features that are unique and feasible to be included in our auction platform as majority of the features are complicated and takes some time to understand how it works. 
+However, with more research as well as discussing feasible features with my teammates, we are able to broaden our view by looking at the ideas in a different point of view. 
+Completion Status: 40% of project proposal completed 
+ 
+  
+ 	 
+Week 3: 14/10/2024 - 20/10/2024 
+I focused on adding more details to the project proposal to prepare for submission and ensuring that the information is not out of point. Discussed with team members about how the database should look like and what are the values needed for the database in the team meeting so as to understand how to implement an auction platform. 
+There were no obstacles faced as I am familiar with my team members and able to 
+ask for their view on certain parts of the project proposal 
+Completion Status: Project proposal 90% done  
+ 
+  
+Week 4: 21/10/2024 - 27/10/2024 
+We finalized and submitted the project proposal. I began researching on website hosting platforms to host while also creating UML activity diagrams to further understand how the database should be implemented as well as the different tables For obstacles faced, it was mostly figuring what are the fields required for the different tables and how there are to link to one another such as foreign key Completion Status: UML activity diagram 70% completed 
+ 
+  
+Week 5: 28/10/2024 - 04/11/2024 
+Completed UML activity diagram. Worked on creating and setting up different pages for frontend development. Discuss with team members on the draft of the website such as what pages are needed and splitting of frontend roles based on different stakeholders. 
+For obstacles, it took me a lot of research in setting up React and testing it out as I am not familiar with it. A lot of research had to be done on how to start using React Completion Status: UML activity diagram 100% completed, Frontend Development 
+20% done 
+ 
+  
+Week 6: 05/11/2024 - 11/11/2024 
+Completed the seller create listing page and working on seller manage listing page. For obstacles, it was difficult to test out the create listing properly as it had not been integrated with the API yet. However, it was handled by just ensuring that information that was entered in the create listing page can be fetched and viewed. 
+Completed setting up Completion Status: Frontend Development 40% done 
+ 
+  
+ 
+ 
+Week 7: 12/11/2024 - 18/11/2024 
+Completed seller manage listing frontend through the use of the json files so as to get a view of how it looks like. Adjusted create listing UI such that it is more user 
+friendly and able to have different fields based on auction strategy 
+Completion Status: Frontend Development 50% completed 
+ 
+  
+Week 8: 19/11/2024 - 25/11/2024 
+Integrated backend API with seller frontend. For obstacles, it was difficult changing from hardcoded frontend to integrating with backend. However, with the help of the team members, I am able to understand how the backend API works and integrate it with my frontend codes. 
+Completion Status: Frontend Development 70% completed (able to create and view seller listing) 
+ 
+  
+Week 9: 26/11/2024 - 02/12/2024 
+Started on seller being able to view a particular listing and able to edit the listing. For obstacles, it took a while for me to figure out how to fetch the correct listing as the backend did some changes. However, team members often update when making any changes so that it is easier to test and troubleshoot when necessary  
+Completion Status: Frontend Development 80% completed 
+  
+Week 10: 03/12/2024 - 09/12/2024 
+Completed seller being able to edit listing and further test all of seller functionality. For obstacles, it took a lot of testing to ensure that seller UI is friendly and has no issues 
+Completion Status: Frontend Development 90% completed 
+ 
+  
+Week 11: 10/12/2024 - 16/12/2024 
+Completed Frontend prototype and ensure that all pages are connected and routing smoothly. Demo prototype presentation to supervisor lecturer so as to obtain feedback.  
+Completion Status: Frontend Development 100% completed  
+  
+ 
+Week 12: 17/12/2024 - 23/12/2024 
+Adjusted Fronted prototype based on supervisor’s lecturer feedback and made the UI more friendlier. Started on technical documentation and to be completed before the demo presentation. Demo Presentation in campus to accessor and received feedbacks to make it more user friendly as well as to think of unique features. Completion Status: Prototype 100% completed, Technical documentation 100% completed 
+  
+Week 13: 24/12/2024 - 30/12/2024 
+Create a nicer UI view for manage listing as well as having the option to delete listing that the same user created. Adjusted the create listing upload image so as to allow multiple images to be uploaded 
+Completion Status: Final product 50% completed 
+ 
+  
+Week 14: 31/12/2024 - 06/01/2025 
+Ensure that all frontend pages style are all similar while further testing each other parts and codes. 
+Completion Status: Final product 60% completed 
+ 
+  
+Week 15: 07/01/2025 - 13/01/2025 
+Edited the edit listing page such that images can also be uploaded and deleted from the particular listing.  
+Completion Status: Final product 60% completed 
+  
+Week 16: 14/01/2025 - 20/01/2025 
+Created a page to allow seller to be able to view the bids that they created so as to be able to know the progress on the bids. Started on User Acceptance Testing Completion Status: Final product 60% completed, User Acceptance Testing 40% completed 
+  
+Week 17: 21/01/2025 - 27/01/2025 
+Adjusted overall UI of frontend and navigation bar. Continued on User Acceptance Testing and fixing any errors from it. 
+Completion Status: Final product 60% completed, User Acceptance Testing 80% completed 
+  
+Week 18: 28/01/2025 - 03/02/2025 
+Finalized on frontend UI and functionalities. Started on User manual documentation and discuss if any necessary changes is needed to the Final Product 
+Completion Status: Final product 80% completed, User Acceptance Testing 80% completed, User manual documentation 50% completed 
+ 
+  
+Week 19: 04/02/2025 - 10/02/2025 
+Completed User Acceptance Testing and User Manual documentation. Fixed bugs for seller issue such as missing images of listing. Stated on presentation slides and reviewing accessor feedbacks on our prototype demo. 
+Completion Status: Final product 90% completed, User Acceptance Testing 100% completed, User manual documentation 100% completed, Presentation slides 50% completed 
+  
+Week 20: 11/02/2025 - 15/02/2025 
+Met with supervisor for demo and confirm doubts and questions in regards to the final submission and final presentation to the access. Submitted final report and conducted project presentation. 
+Completion Status: Final Year Project 100% completed 
+ 
+  
+ 
