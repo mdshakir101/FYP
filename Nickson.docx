@@ -31,7 +31,6 @@ However, I encountered some challenges with UI components not rendering correctl
 Week 8: 19/11/2024 - 25/11/2024
 I successfully integrated the authentication API with the frontend, enabling seamless login and logout experiences. Thorough testing ensured smooth functionality, guaranteeing that users can effortlessly access and manage their accounts. The authentication flow is now fully functional, providing a secure and intuitive experience for users. With this critical component complete, I can focus on further enhancing the application's features and functionality. The integration of the authentication API has laid a solid foundation for the application's continued development and growth.
 
-
 Week 9: 26/11/2024 - 02/12/2024
 I continued to enhance the frontend by integrating additional features, with a focus on designing and implementing intuitive UI components for the bidding process. This involved creating interactive elements, such as buttons, forms, and real-time bidding updates, to provide a seamless and engaging user experience. The bidding process UI components are now fully integrated, enabling users to effortlessly place bids and track auction activity. This significant milestone brings the application closer to its completion, with a robust and user-friendly bidding system in place.
 
@@ -53,7 +52,6 @@ I continued building on the momentum from the previous week, focusing on refinin
 Week 15: 07/01/2025 - 13/01/2025
 I delved deeper into the bidding process, concentrating on designing and implementing the UI components and functionality necessary for a seamless bidding experience. This involved creating interactive elements, such as bid submission forms, bid history displays, and real-time bidding updates. I also explored integrating the bidding process with the existing listing feature, ensuring a cohesive and intuitive user experience. Furthermore, I began investigating the implementation of WebSocket technology to facilitate real-time bidding updates and enhance the overall bidding experience. With the bidding process taking shape, I am now focusing on refining the feature and addressing any emerging challenges.
 
-
 Week 16: 14/01/2025 - 20/01/2025
 From a frontend perspective, I successfully crafted and integrated the administrative UI components, providing a seamless and intuitive experience for administrators. I meticulously designed and implemented the login and logout functionality, ensuring a secure and efficient authentication process. Furthermore, I thoroughly tested and validated the admin features, guaranteeing that they function as intended and provide the necessary tools for effective management. The admin interface is now robust, user-friendly, and fully functional, empowering administrators to effortlessly perform their duties.
 
@@ -69,4 +67,3 @@ I performed an exhaustive, system-wide testing phase to ensure the auction platf
 Week 20: 11/02/2025 - 15/02/2025
 I collaborated closely with my team members to finalize the requirements of our Final Year Project (FYP), ensuring a cohesive and polished outcome. Through open communication and joint effort, we meticulously reviewed and refined every aspect of the project, guaranteeing that all components are fully functional and integrated seamlessly. Our collective dedication and attention to detail have yielded a high-quality result, and we are now confident that our FYP is comprehensive, robust, and ready for presentation.
 This project diary summarizes my contributions, challenges faced, and solutions implemented throughout the development of the online auction platform.
-
